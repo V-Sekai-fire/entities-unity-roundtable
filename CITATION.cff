@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "entities-unity-roundtable"
+abstract: "WAMR against libriscv on four problems for Unity."
+type: software
+authors:
+  - family-names: "Lee"
+    given-names: "K. S. Ernest (iFire)"
+license: MIT
+repository-code: "https://github.com/V-Sekai-fire/entities-unity-roundtable"
